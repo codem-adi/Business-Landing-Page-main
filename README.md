@@ -8,7 +8,7 @@ This website is fully created with core CSS and HTML
 ![badge](https://img.shields.io/badge/HTML-CSS-green)
 
 
-Click for: [Justice](https://businesslandingpagemainbyaditya.netlify.app/)
+Click for: [Live Page](https://businesslandingpagemainbyaditya.netlify.app/)
 
 
 
